@@ -1,8 +1,8 @@
 ---
 title: Hello World!
-date: 2024-11-17 19:35:00 -500
-categories: [testing, set-up]
-tags: [lol, lmao, xD]
+date: 2024-11-17 19:35:00 +000
+categories: [testing, setup]
+tags: [lol,lmao,xD]
 ---
 
 # Hey this is a test!
