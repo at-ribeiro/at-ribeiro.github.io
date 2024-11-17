@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>André T. Ribeiro</title>
   <subtitle>A porfolio/blog personal webpage about André Ribeiro, his path in the Videogame Development industry as well as many other of his interests. Also a place to share knowledge.</subtitle>
-  <updated>2024-11-17T20:12:22+00:00</updated>
+  <updated>2024-11-17T20:47:47+00:00</updated>
   <author>
     <name>André Tomás Ribeiro</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,32 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>My First Post</title>
+    <link href="http://localhost:4000/posts/test-file/" rel="alternate" type="text/html" title="My First Post" />
+    <published>2024-11-17T10:00:00+00:00</published>
+  
+    <updated>2024-11-17T10:00:00+00:00</updated>
+  
+    <id>http://localhost:4000/posts/test-file/</id>
+    <content src="http://localhost:4000/posts/test-file/" />
+    <author>
+      <name>André Tomás Ribeiro</name>
+    </author>
+
+  
+    
+    <category term="blog" />
+    
+  
+
+  <summary>Hey this is a test!
+
+Don’t mind this post.</summary>
+
+  </entry>
 
 </feed>
 
