@@ -1,0 +1,23 @@
+
+
+{
+  "name": "André T. Ribeiro",
+  "short_name": "André T. Ribeiro",
+  "description": "A porfolio/blog personal webpage about André Ribeiro, his path in the Videogame Development industry as well as many other of his interests. Also a place to share knowledge.",
+  "icons": [
+    {
+      "src": "/assets/img/favicons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/favicons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+  "start_url": "/index.html",
+  "theme_color": "#2a1e6b",
+  "background_color": "#ffffff",
+  "display": "fullscreen"
+}
+
