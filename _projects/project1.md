@@ -1,6 +1,6 @@
 ---
 title: "Good Boy"
-image: "/assets/img/projects/project1.jpg"
+image: "/assets/img/projects/project1.png"
 description: "A short team Project for my University's Games and Simulations course"
 layout: project
 technologies: "Unity, C#"
@@ -24,7 +24,7 @@ technologies: "Unity, C#"
   -  Developed a PCG algorithm to create the Maze for Level 3.  
   -  Developed Portals for seamless transitions between doors.  
 
-### 🎥 [Demo Video Submission](https://youtu.be/xzEnkCHLiYU)
+{% include embed/youtube.html id='{xzEnkCHLiYU}' %}
 
 # **Introduction**
 
