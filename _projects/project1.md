@@ -39,6 +39,14 @@ When brainstorming different ideas, as our team was composed of 3 very close fri
 
 It seemed like a perfect concept for us. The theme was personal, easy to explore, and mixed well with the puzzle genre, which was a great genre to flex our programming muscles, helping us to obtain the best grade we could, whilst creating something a bit more personal.
 
+# **Maze Generation**
+
+🏗️Under Construction🏗️
+
+# **Portals**
+
+🏗️Under Construction🏗️
+
 # **Dog Animations**
 
 Given that none of us had experience with 3D modelling, it was obvious to us that we'd have to search the asset store to find a model of a dog to be used in our game. Unfortunately, there were no free-to-use dog assets in the Unity Asset Store that came bundled with animations. Since I had some experience animating with video editing software and even animating rigs in [Garry's Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=104575630), I put myself up to the task of creating all the dog's animations for one of the [free animationless models we found](https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727) (**NOTE**: the asset has since then been updated to include a few animations).
@@ -64,9 +72,6 @@ Although the animations look amateurish, I was happy with the result, especially
   loop=true
   muted=true
 %}
-# **Maze Generation**
-
-# **Portals**
 
 # **Disclaimer**
 This game was created for educational purposes, and it is not for commercial use. Given this, the music and some of the models used in this game were heavily inspired/taken from other games, as we didn't have time nor the skill to make our own. All rights belong to their respective owners.
