@@ -16,7 +16,7 @@ timezone: Europe/Lisbon
 
 title: André Tomás Ribeiro # the main title
 
-tagline: Game-Dev | Comp-Sci Student # it will display as the subtitle
+tagline: Game-Dev | Comp-Sci # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A personal webpage about Videogame Development and many other artforms. A place to share knowledge.
